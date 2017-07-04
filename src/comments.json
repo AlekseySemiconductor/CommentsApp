@@ -1,0 +1,84 @@
+[
+	{
+		"id": 1,
+		"time": "12 min ago",
+		"score": "0",
+		"user": {
+			"name": "User1",
+			"img": ""
+		},
+		"text": "Even in these scenarios though, you can usually skirt away and clear the board.",
+		"reply": [
+			{
+				"id": 3,
+				"time": "12 min ago",
+				"score": "0",
+				"user": {
+					"name": "User-name",
+					"img": ""
+				},
+				"text": "The only really bad position is when you go first and you don't have a natural selection or flash reincarnation. Even in these scenarios though, you can usually skirt away and clear the board."
+			},
+			{
+				"id": 4,
+				"time": "12 min ago",
+				"score": "0",
+				"user": {
+					"name": "user1",
+					"img": ""
+				},
+				"text": "Can i add youin game to watch some replays?"
+			},
+			{
+				"id": 5,
+				"time": "12 min ago",
+				"score": "0",
+				"user": {
+					"name": "User-name",
+					"img": ""
+				},
+				"text": "Can i add youin game to watch some replays?"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"time": "12 min ago",
+		"score": "22",
+		"user": {
+			"name": "User-name",
+			"img": ""
+		},
+		"text": "Of course, but despite what one would guess initially, this deck's playstyle lends itself to remarkable consistency due to its ability to stabilize. The only really bad position is when you go first and you don't have a natural selection or flash reincarnation. Even in these scenarios though, you can usually skirt away and clear the board. Another point of consistency is that when you're in end game, you'll never be plagued by drawing 2-3 drops every other deck runs. You'll always get a power creature or removal."
+	},
+	{
+		"id": 6,
+		"time": "12 min ago",
+		"score": "0",
+		"user": {
+			"name": "User-name",
+			"img": ""
+		},
+		"text": "Congrats. I've played a deck like this for a while but with different specific cards. It's not easy to pilot since you can't do much your first couple of turns but stall, and if you don't pull the right cards at the right time, you fall hopelessly behind."
+	},
+	{
+		"id": 7,
+		"time": "12 min ago",
+		"score": "-10",
+		"user": {
+			"name": "User2",
+			"img": ""
+		},
+		"text": "Yea Harvestor/meta is a classic. I put it back in after the Kron nerf. But yea Qeltar I totaly run the harvest package, although Sunsteel or taygete are both very valid alternatives. Congrats on S rank, always love seeing a fellow control player do succesfully"
+	},
+	{
+		"id": 8,
+		"time": "12 min ago",
+		"score": "0",
+		"user": {
+			"name": "User-name",
+			"img": ""
+		},
+		"text": "This deck is heavily inspired by Mogwai's control magmar from last season http://managlow.com/wp-content/uploads/2016/07/MogwaiControlVaath07072016.png One of the most fun deck styles I've ever played and probably the most unique. I didn't find myself using silhouette tracer often and replaced kinetic equilibrium with thumping wave, also added another plasma storm and iridium scale. I believe these are more consistently useful than kinetic equilibrium. The main combo of the deck is going second, turn 2 flash reincarnate makantor, followed by keeper of the vale for guaranteed makantor"
+	}
+]

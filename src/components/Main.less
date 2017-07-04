@@ -1,0 +1,136 @@
+.comments-container {
+    padding: 50px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.comments-header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.comment-item {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    position: relative;
+}
+
+.comment-item:last-child {
+    border-bottom: none;
+}
+
+.comment-header {
+    font-size: 12px;
+}
+
+.comment-item .avatar-image {
+    margin-right: 10px;
+}
+
+.comment-reply .comment-item .avatar-image {
+    margin-right: 2px;
+}
+
+.comment-actions {
+    margin-top: 5px;
+}
+
+.comment-voting {
+    position: absolute;
+    left: -50px;
+    top: 0;
+    width: 50px;
+    text-align: center;
+}
+
+.comment-voting .down, .comment-voting .up {
+    content: "\e093";
+    position: relative;
+    top: 0;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    color: #ccc;
+    border: none;
+    padding: 0;
+    background: none;
+    margin: 0 auto;
+}
+
+.comment-voting .up:before {
+    content: "\e260";
+}
+
+.comment-voting .up:hover, .comment-voting .up.active {
+    color: #54C28F;
+}
+
+.comment-voting .down:before {
+    content: "\e259";
+}
+
+.comment-voting .down:hover, .comment-voting .down.active {
+    color: red;
+}
+
+.comment-voting .score {
+    color: #aaa;
+}
+
+.comment-parent-link a {
+    color: #444;
+}
+
+.comment-entry {
+    padding: 10px;
+    margin: 0 -10px 20px;
+    background: #f1f1f1;
+}
+
+.comment-entry-header {
+    margin-bottom: 5px;
+
+}
+
+.comment-entry-footer .btn {
+    margin-top: 10px;
+}
+
+.comment-entry .form-group {
+    margin-bottom: 5px;
+}
+
+.comment-wrapper-has-reply > .comment-item {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.comment-reply {
+    margin: 0 0 30px 80px;
+}
+
+.comment-reply .comment-body {
+    color: #737373;
+}
+
+.comment-reply .reply-target {
+    color: #222;
+}
+
+.comment-reply .comment-item {
+    margin: 5px 0 5px;
+    padding: 0;
+    border: none;
+}
+
+.comment-timestamp {
+    color: #ccc;
+    padding-left: 5px;
+}
